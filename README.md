@@ -49,7 +49,7 @@ Here are some of my top repositories:
 
 - [LinkedIn](https://www.linkedin.com/in/henry-mwangi-528924363/)
 - [Email](mailto:henrytech094@gmail.com)
-- [Portfolio]([https://your-portfolio.com](https://henry-tech1.github.io/Portfolio/)) *(optional)*
+- [Portfolio](https://henry-tech1.github.io/Portfolio/) *(optional)*
 
 ---
 
